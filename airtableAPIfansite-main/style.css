@@ -1,0 +1,25 @@
+body {
+	background-image: url("glee.jpg");
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	font-family: mont;
+}
+p {
+	font-family: crimson text;
+	font-size: 20px;
+	margin-left: 420px;
+	margin-right: 420px;
+	text-align: center;
+	color: white;
+	background: #ffcc00;
+}
+img {
+	display: block;
+	margin: auto;
+	width: 20%;
+	height: auto;
+}
+h2 {
+	color:  #ff0000;
+}
